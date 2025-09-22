@@ -1,5 +1,5 @@
 # Hibernate
-All Hibernate programs from Basic CRUD to Advanced E-R/E-V Relationship.
+All Hibernate programs for all type of CRUD Operations. 15+ CRUD Operation are performed in this project
 
 Overview
 
@@ -36,4 +36,4 @@ Hibernate ORM ->  For object-relational mapping and database operations.
 
 MySQL ->  Relational database.
 
-Maven -> Build and dependency management (
+Maven -> Build and dependency management 
